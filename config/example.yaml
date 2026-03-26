@@ -1,0 +1,60 @@
+# Clash 配置示例
+# 这是一个基础的Clash配置模板
+
+port: 7890
+socks-port: 7891
+allow-lan: false
+mode: Rule
+log-level: info
+external-controller: 127.0.0.1:9090
+
+proxies:
+  # 在这里添加你的节点
+
+proxy-groups:
+  - name: Proxy
+    type: select
+    proxies:
+      - Auto
+      - DIRECT
+
+  - name: Auto
+    type: url-test
+    proxies: []
+    url: 'http://www.gstatic.com/generate_204'
+    interval: 300
+
+rules:
+  # 流媒体
+  - DOMAIN-SUFFIX,netflix.com,Proxy
+  - DOMAIN-SUFFIX,youtube.com,Proxy
+  - DOMAIN-SUFFIX,googlevideo.com,Proxy
+  
+  # 开发者工具
+  - DOMAIN-SUFFIX,github.com,Proxy
+  - DOMAIN-SUFFIX,githubusercontent.com,Proxy
+  - DOMAIN-SUFFIX,google.com,Proxy
+  - DOMAIN-SUFFIX,stackoverflow.com,Proxy
+  
+  # AI服务
+  - DOMAIN-SUFFIX,openai.com,Proxy
+  - DOMAIN-SUFFIX,anthropic.com,Proxy
+  - DOMAIN-SUFFIX,chatgpt.com,Proxy
+  
+  # 国内直连
+  - DOMAIN-SUFFIX,bilibili.com,DIRECT
+  - DOMAIN-SUFFIX,taobao.com,DIRECT
+  - DOMAIN-SUFFIX,tmall.com,DIRECT
+  - DOMAIN-SUFFIX,jd.com,DIRECT
+  - DOMAIN-SUFFIX,qq.com,DIRECT
+  - DOMAIN-SUFFIX,weixin.com,DIRECT
+  
+  # 广告拦截
+  - DOMAIN-KEYWORD,adserver,REJECT
+  - DOMAIN-KEYWORD,analytics,REJECT
+  
+  # 地理位置分流
+  - GEOIP,CN,DIRECT
+  
+  # 兜底规则
+  - MATCH,Proxy
