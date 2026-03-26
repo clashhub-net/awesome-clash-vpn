@@ -1,56 +1,56 @@
-# Awesome Clash VPN 🔥
+# Awesome Clash VPN 馃敟
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/clashhub-net/awesome-clash-vpn.svg?style=flat-square)](https://github.com/clashhub-net/awesome-clash-vpn/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/clashhub-net/awesome-clash-vpn.svg?style=flat-square)](https://github.com/clashhub-net/awesome-clash-vpn/network)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue.svg)](LICENSE)
 
-> 🚀 **A curated list of Clash proxy tools, premium VPN nodes, and internet freedom resources**
+> 馃殌 **A curated list of Clash proxy tools, premium VPN nodes, and internet freedom resources**
 > 
 > Continuously updated | Last updated: 2026-03-26
 
-**[中文文档](docs/zh/README.md)** | **English**
+**[涓枃鏂囨。](docs/zh/README.md)** | **English**
 
 ---
 
-## 📑 Table of Contents
+## 馃搼 Table of Contents
 
-- [🌟 Recommended VPN Services](#-recommended-vpn-services)
-- [💻 Client Tools](#-client-tools)
-- [📚 Tutorials & Guides](#-tutorials--guides)
-- [🛠 Configuration Resources](#-configuration-resources)
-- [📱 Mobile Solutions](#-mobile-solutions)
-- [🔍 Rules & Routing](#-rules--routing)
-- [�?FAQ](#-faq)
-- [🤝 Contributing](#-contributing)
+- [馃専 Recommended VPN Services](#-recommended-vpn-services)
+- [馃捇 Client Tools](#-client-tools)
+- [馃摎 Tutorials & Guides](#-tutorials--guides)
+- [馃洜 Configuration Resources](#-configuration-resources)
+- [馃摫 Mobile Solutions](#-mobile-solutions)
+- [馃攳 Rules & Routing](#-rules--routing)
+- [鉂?FAQ](#-faq)
+- [馃 Contributing](#-contributing)
 
 ---
 
-## 🌟 Recommended VPN Services
+## 馃専 Recommended VPN Services
 
-> �?Tested and verified: Fast speeds, high stability, responsive support
+> 鈿?Tested and verified: Fast speeds, high stability, responsive support
 
 | Name | Features | Protocols | Rating |
 |------|----------|-----------|--------|
-| [**ClashVIP**](https://clashvip.net) | Great value, global nodes, streaming unlocked (Netflix/HBO) | SSR/V2Ray/Trojan | ⭐⭐⭐⭐�?|
-| [**ClashHub**](https://clashhub.net) | Optimized routing, low latency, gaming-friendly | Shadowsocks/V2Ray | ⭐⭐⭐⭐�?|
-| [**Clash for Windows Official**](https://clash-for-windows.net) | Official recommendation, reliable nodes | All protocols | ⭐⭐⭐⭐ |
+| [**ClashVIP**](https://clashvip.net) | Great value, global nodes, streaming unlocked (Netflix/HBO) | SSR/V2Ray/Trojan | 猸愨瓙猸愨瓙猸?|
+| [**ClashHub**](https://clashhub.net) | Optimized routing, low latency, gaming-friendly | Shadowsocks/V2Ray | 猸愨瓙猸愨瓙猸?|
+| [**Clash for Windows Official**](https://clash-for-windows.net) | Official recommendation, reliable nodes | All protocols | 猸愨瓙猸愨瓙 |
 
-### 🎯 How to Choose a VPN Service?
+### 馃幆 How to Choose a VPN Service?
 
-1. **Know your needs**: Streaming �?look for Netflix/Disney+ unlock; Gaming �?look for low latency
+1. **Know your needs**: Streaming 鈫?look for Netflix/Disney+ unlock; Gaming 鈫?look for low latency
 2. **Check routing**: Dedicated line > Relay > Direct (for stability)
 3. **Check support**: TG group/ticket system = better service
 4. **Try first**: Most services offer free trials
 
-### 💡 VPN Navigation
+### 馃挕 VPN Navigation
 
 - [**ClashVIP Navigator**](https://nav.clashvip.net) - VPN comparison, deals & promotions
 - [**ClashHub Community**](https://bbs.clashhub.net) - Tutorials, Q&A, node reviews
 
 ---
 
-## 💻 Client Tools
+## 馃捇 Client Tools
 
 ### Windows
 
@@ -76,7 +76,7 @@
 
 ---
 
-## 📚 Tutorials & Guides
+## 馃摎 Tutorials & Guides
 
 ### Getting Started
 
@@ -98,7 +98,7 @@
 
 ---
 
-## 🛠 Configuration Resources
+## 馃洜 Configuration Resources
 
 ### Subscription Converters
 
@@ -124,7 +124,7 @@ More config templates in [config/](config/) directory.
 
 ---
 
-## 📱 Mobile Solutions
+## 馃摫 Mobile Solutions
 
 ### iOS
 
@@ -143,7 +143,7 @@ More config templates in [config/](config/) directory.
 
 ---
 
-## 🔍 Rules & Routing
+## 馃攳 Rules & Routing
 
 ### Recommended Rule Sets
 
@@ -163,7 +163,7 @@ More config templates in [config/](config/) directory.
 
 ---
 
-## �?FAQ
+## 鉂?FAQ
 
 <details>
 <summary><b>Q: Clash for Windows won't open?</b></summary>
@@ -198,7 +198,7 @@ Detailed troubleshooting: [Troubleshooting Guide](docs/en/troubleshooting.md)
 
 ---
 
-## 🤝 Contributing
+## 馃 Contributing
 
 Contributions are welcome!
 
@@ -217,29 +217,29 @@ Contributions are welcome!
 
 ---
 
-## ⚠️ Disclaimer
+## 鈿狅笍 Disclaimer
 
 This project is for technical exchange and educational purposes only. Please comply with local laws and regulations. Do not use for illegal purposes. Users are responsible for any consequences resulting from the use of this project.
 
 ---
 
-## 📧 Contact
+## 馃摟 Contact
 
 - Issue Tracker: [Issues](https://github.com/clashhub-net/awesome-clash-vpn/issues)
 - Telegram: [Join Discussion](https://t.me/clashvpn)
 
 ---
 
-## 📜 License
+## 馃摐 License
 
-[CC BY-NC-SA 4.0](LICENSE) © 2026
+[CC BY-NC-SA 4.0](LICENSE) 漏 2026
 
 ---
 
-**�?If this project helps you, please give it a Star!**
+**猸?If this project helps you, please give it a Star!**
 
 ---
 
 <p align="center">
-  <a href="https://clashvip.net">ClashVIP</a> �?  <a href="https://clashhub.net">ClashHub</a> �?  <a href="https://clash-for-windows.net">CFW Download</a> �?  <a href="https://bbs.clashhub.net">Community</a> �?  <a href="https://nav.clashvip.net">Navigator</a>
+  <a href="https://clashvip.net">ClashVIP</a> 鈥?  <a href="https://clashhub.net">ClashHub</a> 鈥?  <a href="https://clash-for-windows.net">CFW Download</a> 鈥?  <a href="https://bbs.clashhub.net">Community</a> 鈥?  <a href="https://nav.clashvip.net">Navigator</a>
 </p>
