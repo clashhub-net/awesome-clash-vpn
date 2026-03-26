@@ -1,11 +1,11 @@
-# Awesome Clash VPN 馃敟
+# Awesome Clash VPN
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/clashhub-net/awesome-clash-vpn.svg?style=flat-square)](https://github.com/clashhub-net/awesome-clash-vpn/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/clashhub-net/awesome-clash-vpn.svg?style=flat-square)](https://github.com/clashhub-net/awesome-clash-vpn/network)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue.svg)](LICENSE)
 
-> 馃殌 **绮鹃€?Clash 浠ｇ悊宸ュ叿銆佷紭璐ㄨ妭鐐规帹鑽愪笌绉戝涓婄綉瀹屽叏鎸囧崡**
+> 绮鹃€?Clash 浠ｇ悊宸ュ叿銆佷紭璐ㄨ妭鐐规帹鑽愪笌绉戝涓婄綉瀹屽叏鎸囧崡
 > 
 > 鎸佺画鏇存柊涓?| 鏈€鍚庢洿鏂? 2026-03-26
 
@@ -13,39 +13,39 @@
 
 ---
 
-## 馃搼 鐩綍
+## 鐩綍
 
-- [馃専 鎺ㄨ崘鏈哄満](#-鎺ㄨ崘鏈哄満)
-- [馃捇 瀹㈡埛绔伐鍏穄(#-瀹㈡埛绔伐鍏?
-- [馃摎 鏁欑▼鎸囧崡](#-鏁欑▼鎸囧崡)
-- [馃洜 閰嶇疆璧勬簮](#-閰嶇疆璧勬簮)
-- [馃摫 绉诲姩绔柟妗圿(#-绉诲姩绔柟妗?
-- [馃攳 瑙勫垯涓庡垎娴乚(#-瑙勫垯涓庡垎娴?
-- [鉂?甯歌闂](#-甯歌闂)
-- [馃 璐＄尞鎸囧崡](#-璐＄尞鎸囧崡)
+- [鎺ㄨ崘鏈哄満](#鎺ㄨ崘鏈哄満)
+- [瀹㈡埛绔伐鍏穄(#瀹㈡埛绔伐鍏?
+- [鏁欑▼鎸囧崡](#鏁欑▼鎸囧崡)
+- [閰嶇疆璧勬簮](#閰嶇疆璧勬簮)
+- [绉诲姩绔柟妗圿(#绉诲姩绔柟妗?
+- [瑙勫垯涓庡垎娴乚(#瑙勫垯涓庡垎娴?
+- [甯歌闂](#甯歌闂)
+- [璐＄尞鎸囧崡](#璐＄尞鎸囧崡)
 
 ---
 
-## 馃専 鎺ㄨ崘鏈哄満
+## 鎺ㄨ崘鏈哄満
 
-> 鈿?缁忚繃瀹炴祴锛岄€熷害蹇€佺ǔ瀹氭€ч珮銆佸鏈嶅搷搴斿強鏃剁殑浼樿川鏈哄満
+> 缁忚繃瀹炴祴锛岄€熷害蹇€佺ǔ瀹氭€ч珮銆佸鏈嶅搷搴斿強鏃剁殑浼樿川鏈哄満
 
 | 鍚嶇О | 鐗圭偣 | 鏀寔鍗忚 | 鎺ㄨ崘鎸囨暟 |
 |------|------|----------|----------|
-| [**ClashVIP**](https://clashvip.net) | 楂樻€т环姣旓紝澶氳妭鐐硅鐩栵紝鏀寔Netflix/HBO绛夋祦濯掍綋瑙ｉ攣 | SSR/V2Ray/Trojan | 猸愨瓙猸愨瓙猸?|
-| [**ClashHub**](https://clashhub.net) | 涓撶嚎浼樺寲锛屼綆寤惰繜锛屾父鎴忓姞閫熷弸濂?| Shadowsocks/V2Ray | 猸愨瓙猸愨瓙猸?|
-| [**Clash for Windows 瀹樻柟鑺傜偣绔?*](https://clash-for-windows.net) | 瀹樻柟鎺ㄨ崘锛岃妭鐐硅川閲忔湁淇濋殰 | 鍏ㄥ崗璁敮鎸?| 猸愨瓙猸愨瓙 |
+| [**ClashVIP**](https://clashvip.net) | 楂樻€т环姣旓紝澶氳妭鐐硅鐩栵紝鏀寔Netflix/HBO绛夋祦濯掍綋瑙ｉ攣 | SSR/V2Ray/Trojan | 浜旀槦 |
+| [**ClashHub**](https://clashhub.net) | 涓撶嚎浼樺寲锛屼綆寤惰繜锛屾父鎴忓姞閫熷弸濂?| Shadowsocks/V2Ray | 浜旀槦 |
+| [**Clash for Windows 瀹樻柟鑺傜偣绔?*](https://clash-for-windows.net) | 瀹樻柟鎺ㄨ崘锛岃妭鐐硅川閲忔湁淇濋殰 | 鍏ㄥ崗璁敮鎸?| 鍥涙槦 |
 
-### 馃幆 濡備綍閫夋嫨鏈哄満锛?
+### 濡備綍閫夋嫨鏈哄満锛?
 1. **鐪嬮渶姹?*锛氳拷鍓у厷鍏虫敞娴佸獟浣撹В閿侊紝娓告垙鍏氬叧娉ㄥ欢杩?2. **鐪嬬嚎璺?*锛氫笓绾?> 涓浆 > 鐩磋繛锛堢ǔ瀹氭€ц搴︼級
 3. **鐪嬪敭鍚?*锛氭湁TG缇?宸ュ崟绯荤粺鐨勬洿闈犺氨
 4. **鐪嬭瘯鐢?*锛氬ぇ閮ㄥ垎鏈哄満鎻愪緵鍏嶈垂璇曠敤锛屽厛璇曞悗涔?
-### 馃挕 鏈哄満瀵艰埅
+### 鏈哄満瀵艰埅
 
 - [**ClashVIP 瀵艰埅绔?*](https://nav.clashvip.net) - 鏈哄満瀵规瘮銆佷紭鎯犳椿鍔ㄦ眹鎬?- [**ClashHub 绀惧尯**](https://bbs.clashhub.net) - 浣跨敤鏁欑▼銆侀棶棰樿В绛斻€佽妭鐐规祴璇?
 ---
 
-## 馃捇 瀹㈡埛绔伐鍏?
+## 瀹㈡埛绔伐鍏?
 ### Windows
 
 | 宸ュ叿 | 鐗圭偣 | 涓嬭浇 |
@@ -70,7 +70,7 @@
 
 ---
 
-## 馃摎 鏁欑▼鎸囧崡
+## 鏁欑▼鎸囧崡
 
 ### 鍏ラ棬蹇呰
 
@@ -87,7 +87,7 @@
 
 ---
 
-## 馃洜 閰嶇疆璧勬簮
+## 閰嶇疆璧勬簮
 
 ### 璁㈤槄杞崲
 
@@ -112,14 +112,14 @@ Rule:
 鏇村閰嶇疆妯℃澘璇锋煡鐪?[config/](config/) 鐩綍銆?
 ---
 
-## 馃摫 绉诲姩绔柟妗?
+## 绉诲姩绔柟妗?
 ### iOS
 
 | 宸ュ叿 | 鐗圭偣 | 浠锋牸 |
 |------|------|------|
-| Shadowrocket | 鍔熻兘鏈€鍏ㄩ潰锛屾敮鎸佸鍗忚 | 楼18锛堜竴娆℃€ц喘涔帮級 |
-| Stash | Clash鍐呮牳锛岃鍒欎赴瀵?| 楼18锛堜竴娆℃€ц喘涔帮級 |
-| Surge 5 | 涓撲笟绾у伐鍏凤紝璋冭瘯寮哄ぇ | 楼648/骞?|
+| Shadowrocket | 鍔熻兘鏈€鍏ㄩ潰锛屾敮鎸佸鍗忚 | 18鍏冿紙涓€娆℃€ц喘涔帮級 |
+| Stash | Clash鍐呮牳锛岃鍒欎赴瀵?| 18鍏冿紙涓€娆℃€ц喘涔帮級 |
+| Surge 5 | 涓撲笟绾у伐鍏凤紝璋冭瘯寮哄ぇ | 648鍏?骞?|
 
 ### Android
 
@@ -130,7 +130,7 @@ Rule:
 
 ---
 
-## 馃攳 瑙勫垯涓庡垎娴?
+## 瑙勫垯涓庡垎娴?
 ### 鎺ㄨ崘瑙勫垯闆?
 - [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 澶ц€屽叏
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 鍚勭被鍒嗘祦瑙勫垯
@@ -148,34 +148,26 @@ Rule:
 
 ---
 
-## 鉂?甯歌闂
+## 甯歌闂
 
-<details>
-<summary><b>Q: Clash for Windows 鎵撲笉寮€鎬庝箞鍔烇紵</b></summary>
+### Q: Clash for Windows 鎵撲笉寮€鎬庝箞鍔烇紵
 
 **A:** 甯歌瑙ｅ喅鏂规硶锛?1. 浠ョ鐞嗗憳韬唤杩愯
 2. 妫€鏌ラ槻鐏/鏉€姣掕蒋浠舵槸鍚︽嫤鎴?3. 鍒犻櫎 `.config/clash` 鏂囦欢澶瑰悗閲嶈瘯
 4. 閲嶆柊涓嬭浇鏈€鏂扮増鏈?
 璇︾粏鎺掓煡锛歔鏁呴殰鎺掗櫎鎸囧崡](docs/troubleshooting.md)
-</details>
 
-<details>
-<summary><b>Q: 濡備綍妫€娴嬭妭鐐规槸鍚︽敮鎸丯etflix锛?/b></summary>
-
+### Q: 濡備綍妫€娴嬭妭鐐规槸鍚︽敮鎸丯etflix锛?
 **A:** 鏂规硶锛?1. 璁块棶 [Netflix.com](https://netflix.com)锛岀湅鏄惁鏈夊湴鍩熼檺鍒舵彁绀?2. 浣跨敤 [Netflux](https://netflux.netlify.app/) 妫€娴?3. 鎾斁娴嬭瘯瑙嗛 [test-patterns](https://www.netflix.com/watch/70143404)
-</details>
 
-<details>
-<summary><b>Q: 涓轰粈涔堟湁鐨勭綉绔欐墦涓嶅紑锛?/b></summary>
-
+### Q: 涓轰粈涔堟湁鐨勭綉绔欐墦涓嶅紑锛?
 **A:** 鎺掓煡姝ラ锛?1. 妫€鏌ヨ鍒欐槸鍚︽纭紙鏄惁琚敊璇湴鍒嗛厤鍒癉irect锛?2. 灏濊瘯鍒囨崲鑺傜偣
 3. 寮€鍚疶UN妯″紡锛堟煇浜涘簲鐢ㄤ笉璧扮郴缁熶唬鐞嗭級
 4. 妫€鏌NS璁剧疆
-</details>
 
 ---
 
-## 馃 璐＄尞鎸囧崡
+## 璐＄尞鎸囧崡
 
 娆㈣繋璐＄尞浼樿川璧勬簮锛?
 1. Fork 鏈粨搴?2. 鍒涘缓鍒嗘敮 (`git checkout -b feature/add-resource`)
@@ -190,28 +182,32 @@ Rule:
 - 鏀惧湪鍚堥€傜殑鍒嗙被涓?- 淇濇寔鏍煎紡涓€鑷?
 ---
 
-## 鈿狅笍 鍏嶈矗澹版槑
+## 鍏嶈矗澹版槑
 
 鏈」鐩粎鐢ㄤ簬鎶€鏈氦娴佸拰瀛︿範鐮旂┒銆傝閬靛畧褰撳湴娉曞緥娉曡锛屼笉寰楃敤浜庨潪娉曠敤閫斻€備娇鐢ㄦ湰椤圭洰鎵€瀵艰嚧鐨勪换浣曞悗鏋滐紝鐢变娇鐢ㄨ€呰嚜琛屾壙鎷呫€?
 ---
 
-## 馃摟 鑱旂郴鏂瑰紡
+## 鑱旂郴鏂瑰紡
 
 - 闂鍙嶉锛歔Issues](https://github.com/clashhub-net/awesome-clash-vpn/issues)
 - Telegram缇わ細[鍔犲叆璁ㄨ](https://t.me/clashvpn)
 
 ---
 
-## 馃摐 License
+## License
 
-[CC BY-NC-SA 4.0](LICENSE) 漏 2026
+[CC BY-NC-SA 4.0](LICENSE) - 2026
 
 ---
 
-**猸?濡傛灉杩欎釜椤圭洰瀵逛綘鏈夊府鍔╋紝璇风粰涓?Star 鏀寔锛?*
+**濡傛灉杩欎釜椤圭洰瀵逛綘鏈夊府鍔╋紝璇风粰涓?Star 鏀寔锛?*
 
 ---
 
 <p align="center">
-  <a href="https://clashvip.net">ClashVIP</a> 鈥?  <a href="https://clashhub.net">ClashHub</a> 鈥?  <a href="https://clash-for-windows.net">CFW涓嬭浇</a> 鈥?  <a href="https://bbs.clashhub.net">绀惧尯璁哄潧</a> 鈥?  <a href="https://nav.clashvip.net">鏈哄満瀵艰埅</a>
+  <a href="https://clashvip.net">ClashVIP</a> |
+  <a href="https://clashhub.net">ClashHub</a> |
+  <a href="https://clash-for-windows.net">CFW涓嬭浇</a> |
+  <a href="https://bbs.clashhub.net">绀惧尯璁哄潧</a> |
+  <a href="https://nav.clashvip.net">鏈哄満瀵艰埅</a>
 </p>
